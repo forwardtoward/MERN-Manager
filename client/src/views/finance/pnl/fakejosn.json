@@ -1,0 +1,71 @@
+{
+    "data": [
+        {
+            "membership": "2 WEEK SPECIAL",
+            "firstMonthIncome": 500,
+            "secondMonthIncome": 40,
+            "incomeInYear": 414,
+            "percentage1": "0.00",
+            "percentage2": "0.31",
+            "percentage3": "0.93"
+        },
+        {
+            "membership": "7 MONTH MONTHLY",
+            "firstMonthIncome": 400,
+            "secondMonthIncome": 0,
+            "incomeInYear": 400,
+            "percentage1": "3.04",
+            "percentage2": "0.00",
+            "percentage3": "0.90"
+        },
+        {
+            "membership": "7 MONTH PIF",
+            "firstMonthIncome": 4405,
+            "secondMonthIncome": 4510,
+            "incomeInYear": 18225,
+            "percentage1": "33.47",
+            "percentage2": "34.69",
+            "percentage3": "41.16"
+        },
+        {
+            "membership": "BBC PIF",
+            "firstMonthIncome": 6855,
+            "secondMonthIncome": 0,
+            "incomeInYear": 6855,
+            "percentage1": "52.09",
+            "percentage2": "0.00",
+            "percentage3": "15.48"
+        },
+        {
+            "membership": "12 MONTH PIF",
+            "firstMonthIncome": 1500,
+            "secondMonthIncome": 1500,
+            "incomeInYear": 3000,
+            "percentage1": "11.40",
+            "percentage2": "11.54",
+            "percentage3": "6.78"
+        },
+        {
+            "membership": "BBC 15 MONTH",
+            "firstMonthIncome": 0,
+            "secondMonthIncome": 6952,
+            "incomeInYear": 15384.5,
+            "percentage1": "0.00",
+            "percentage2": "53.47",
+            "percentage3": "34.74"
+        }
+    ],
+    "firstMonthTotal": 13160,
+    "secondMonthTotal": 13002,
+    "yearlyTotal": 44278.5, 
+    "firstMonthTotalIncome": 13160,
+    "secondMonthTotalIncome": 13002,
+    "yearlyTotalIncome": 44278.5,
+    "firstMonthTotalExpense": 0, 
+    "secondMonthTotalExpense": 0,
+    "yearlyTotalExpense":0,
+    "totalm1Income": 180,
+    "totalm2Income": 166,
+    "totalYearly": 199
+
+  }

@@ -1,0 +1,19 @@
+.fc {
+  // &.fc-direction-rtl {
+  //   direction: rtl;
+  //   text-align: right;
+  // }
+  .fc-header-toolbar {
+    .fc-toolbar-chunk {
+      .fc-today-button {
+        margin-right: 1rem;
+        border-radius: 5px;
+        padding: 0.438rem 1rem;
+      }
+    }
+  }
+}
+
+.add-element {
+  // margin-top: -100%;
+}
